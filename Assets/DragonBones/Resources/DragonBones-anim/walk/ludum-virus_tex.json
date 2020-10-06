@@ -1,0 +1,1 @@
+{"width":128,"SubTexture":[{"width":73,"y":1,"height":84,"name":"chest","x":1},{"width":27,"y":1,"height":55,"name":"hand","x":76},{"width":18,"y":1,"height":18,"name":"eye","x":105},{"width":91,"y":87,"height":58,"name":"head","x":1},{"width":24,"y":58,"height":43,"name":"foot","x":94}],"height":256,"name":"ludum-virus","imagePath":"ludum-virus_tex.png"}
